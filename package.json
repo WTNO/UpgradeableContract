@@ -1,0 +1,23 @@
+{
+  "name": "upgradeablecontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WTNO/UpgradeableContract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WTNO/UpgradeableContract/issues"
+  },
+  "homepage": "https://github.com/WTNO/UpgradeableContract#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  }
+}
