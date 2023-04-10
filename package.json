@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/WTNO/UpgradeableContract#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
     "@openzeppelin/hardhat-upgrades": "^1.22.1",
     "hardhat": "^2.13.0"
   }
